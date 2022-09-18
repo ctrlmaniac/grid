@@ -2,12 +2,17 @@
   "name": "@ctrlmaniac/grid",
   "version": "0.0.0",
   "description": "A fully responsive flex grid",
-  "main": "dist/grid.min.css",
+  "main": "css/grid.css",
   "repository": "https://github.com/ctrlmaniac/grid.git",
   "author": "Davide Di Criscito <davide.dicriscito@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "build": "gulp"
+  },
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.54.9"
   }
 }
