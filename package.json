@@ -1,6 +1,6 @@
 {
   "name": "@ctrlmaniac/grid",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A fully responsive flex grid",
   "main": "css/grid.css",
   "style": "css/grid.css",
