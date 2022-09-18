@@ -1,5 +1,12 @@
+// Flex grid
 @import "./flex/rows";
 @import "./flex/gutters";
 @import "./flex/cols";
 @import "./flex/cols-responsive";
 @import "./flex";
+
+// Grid grid
+@import "./grid/grid";
+@import "./grid/cols";
+@import "./grid/rows";
+@import "./grid/gutters";

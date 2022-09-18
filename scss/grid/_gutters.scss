@@ -1,0 +1,11 @@
+.grid {
+  &.gutters {
+    gap: 0.5rem;
+  }
+
+  @for $i from 1 to 6 {
+    &.gutters-#{$i} {
+      gap: #{$i}rem;
+    }
+  }
+}

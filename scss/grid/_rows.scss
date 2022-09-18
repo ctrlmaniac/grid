@@ -1,0 +1,5 @@
+@for $row from 1 to 13 {
+  .grid-row-#{$row} {
+    grid-row-end: span #{$row};
+  }
+}
