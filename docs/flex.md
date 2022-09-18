@@ -16,7 +16,7 @@ Inside the `.row` element you can add as much as you need `.col` elements.
 </div>
 ```
 
-![Simple Grid](../assets/flex/simple.png)
+![Simple Grid](./assets/flex/simple.png)
 
 ## Gutters
 
@@ -31,7 +31,7 @@ With the class `.gutters` you will give some spacing to the grid.
 </div>
 ```
 
-![Gutters](../assets/flex/gutters.png)
+![Gutters](./assets/flex/gutters.png)
 
 There are five more available gutters from 1 to 5. To use them you can concatenate the number after gutters, for example: `.gutters-1`.
 
@@ -48,8 +48,8 @@ To make the grid responsive you can use the breakpoints!
 </div>
 ```
 
-![Responsive](../assets/flex/responsive-1.png)
-![Responsive](../assets/flex/responsive-2.png)
+![Responsive](./assets/flex/responsive-1.png)
+![Responsive](./assets/flex/responsive-2.png)
 
 ## Flex Utilities
 

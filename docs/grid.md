@@ -12,14 +12,14 @@ This grid uses `diplay: grid` under the hood.
 </div>
 ```
 
-![grid-1](../assets/grid/grid.png)
+![grid-1](./assets/grid/grid.png)
 
 You can specify how many columns the cell will span by adding a number from 1 to 12. Ex: `.grid-col-1`
 
 You can specify how many rows the cell will span by adding a number from 1 to 12. Ex: `.grid-row-2`
 
-![grid-2](../assets/grid/grid-col-row.png)
+![grid-2](./assets/grid/grid-col-row.png)
 
 You can specify a gutter by adding `.gutters` to the `.grid` class. You can increase gutters by adding a number to the `.gutters` class from 1 to 5. Ex `.gutters-2`.
 
-![grid gutters](../assets/grid/gutters.png)
+![grid gutters](./assets/grid/gutters.png)
