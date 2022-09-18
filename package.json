@@ -1,0 +1,10 @@
+{
+  "name": "@ctrlmaniac/grid",
+  "version": "0.0.0",
+  "description": "A fully responsive flex grid",
+  "main": "dist/grid.min.css",
+  "repository": "https://github.com/ctrlmaniac/grid.git",
+  "author": "Davide Di Criscito <davide.dicriscito@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
