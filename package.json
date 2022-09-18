@@ -6,5 +6,8 @@
   "repository": "https://github.com/ctrlmaniac/grid.git",
   "author": "Davide Di Criscito <davide.dicriscito@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
